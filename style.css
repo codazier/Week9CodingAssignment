@@ -1,0 +1,60 @@
+.homeGround {
+    background-color:rgb(124, 127, 255);
+}
+
+
+.navColor {
+    background-color:rgb(255, 179, 224);
+}
+
+.textColor {
+    color:white
+}
+
+.imageOne {
+    width:600px;
+    height:400px;
+}
+
+.borderStyle1 {
+    border-style: solid;
+    border-color: beige;
+    padding: 5px;
+    margin: 5px;
+}
+
+.borderStyle2 {
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.menuGround {
+    background-color:rgb(239, 202, 86) ;
+
+}
+
+.tableColor {
+    background-color:rgb(124, 178, 255)
+}
+
+.imageTwo {
+    width:300px;
+    height:200px;
+}
+
+.imageThree {
+    width:200px;
+    height:200px;
+}
+
+.krabText {
+    text-align: center;
+    color: white
+}
+
+.textColor2 {
+    color:white;
+    text-align:right;
+}
